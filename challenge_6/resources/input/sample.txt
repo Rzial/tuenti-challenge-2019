@@ -1,0 +1,16 @@
+3
+4
+dad
+bad
+cab
+cda
+2
+ab
+bc
+6
+xad
+dad
+bad
+cab
+cda
+cdx
